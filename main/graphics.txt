@@ -1,0 +1,13 @@
+/// 0 - vacio | 2 - flag  4 - Upper limit  5 - Lower limit  7 - Player 1   9 - Player 2 /// CHANGE COLORS OF FLAG DEPENDING ON PLAYER
+│   │
+│ ⚐ │
+│ ⚐ │
+| ⚐ |
+┌───┐
+└───┘
+------6
+│ ♔ │
+│ ⚑ │
+│ ♚ │
+│ ⚑ │
+
